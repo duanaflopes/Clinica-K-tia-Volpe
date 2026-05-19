@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Kátia Volpe",
+  "description": "Página oficial da Clínica Kátia Volpe, especializada em ciência dermatológica de alta performance e protocolos de tratamento 360.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
